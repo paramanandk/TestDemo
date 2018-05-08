@@ -20,6 +20,12 @@ public class Employee {
 	public void setEmpId(int empId) {
 		this.empId = empId;
 	}
+	public String getEmpCode() {
+		return empCode;
+	}
+	public void setEmpCode(String empCode) {
+		this.empCode = empCode;
+	}
 	public String getEmpName() {
 		return empName;
 	}
