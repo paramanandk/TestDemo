@@ -10,6 +10,7 @@ public class Employee {
 	private String empName;
 	private double empSal;
 	private String empCode;
+	private String addr;
 	public Employee() {
 		super();
 	}
